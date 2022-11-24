@@ -2,9 +2,6 @@
 #include <stdio.h>
 #include <unistd.h>
 
-
-void test_print(char *str, ...);
-
 /**
  * main - test file
  * Program starts execution from here

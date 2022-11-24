@@ -1,7 +1,7 @@
-#ifndef "_MAIN_H"
-#define "_MAIN_H"
+#ifndef _MAIN_H
+#define _MAIN_H
 
 int _printf(const char *format, ...);
 
-#endif	// #ifndef "_MAIN_H"
+#endif	/* #ifndef _MAIN_H */
 
